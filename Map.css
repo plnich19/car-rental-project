@@ -1,0 +1,100 @@
+img{
+  padding: 10px;
+}
+
+.image{
+  height: 100%;
+  width: 75%;
+  overflow: auto;
+  float: right;
+}
+
+.contents{
+
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  background-color: azure;
+  opacity: .7; 
+}
+
+p{
+    cursor: pointer;
+}
+
+body{
+  padding: 40px;
+  font-size: 20px;
+  height: 50px;
+  font-family: Bahnschrift SemiBold;
+  text-align: center;
+
+  background-image: url("http://www.gingercreek.org/wp-content/uploads/2018/07/142443-widescreen-blue-ombre-background-1920x1080-photo.jpg");
+}
+
+tr:nth-child(even) {background:rgb(209, 209, 224)}
+tr:nth-child(odd) {background: #FFF}
+
+.btn {
+
+background-color: #333333;
+border: none;
+color: black;
+
+text-align: center;
+font-size: 20px;
+margin : 5px 10px;
+transition: 0.7s;
+}
+
+
+.btn:hover {	
+background-color: #006bb3;
+color: white;
+}
+
+
+
+
+a{
+color:white;
+}
+
+.sub{
+  padding-right: 10px;
+  font-size: 15px;
+  float:right;
+}
+
+#en1 p{  
+  
+      text-align: center;
+      font-style: oblique;
+      font-size: smaller;
+}
+footer{
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  background-color:lavender;
+  opacity: .4; 
+}
+
+
+.carre{
+  
+  color: red
+}
+.sub{
+  padding-right: 10px;
+  font-size: 15px;
+  float:right;
+}
