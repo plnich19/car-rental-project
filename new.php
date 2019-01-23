@@ -1,3 +1,5 @@
+//do functions on admin page
+
 <?php
 include('connect.php'); 
 if ($mysqli->connect_errno) {
