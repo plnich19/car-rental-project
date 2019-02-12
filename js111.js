@@ -1,4 +1,6 @@
- var n = localStorage.getItem('on_load_counter');
+//alternative javascript file used for making cart
+//isnt used for the real website in latest version
+var n = localStorage.getItem('on_load_counter');
         
         if (n === null) {
            n = 0;
