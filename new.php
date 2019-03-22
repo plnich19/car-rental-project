@@ -1,4 +1,4 @@
-//do functions on admin page
+//do functions on admin page e.g. add car, delete car, add promotion
 
 <?php
 include('connect.php'); 
