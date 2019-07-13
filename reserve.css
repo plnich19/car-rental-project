@@ -1,0 +1,111 @@
+body{
+    padding: 40px;
+    font-size: 20px;
+    height: 50px;
+    font-family: Bahnschrift SemiBold;
+	
+    background-image: url("http://www.gingercreek.org/wp-content/uploads/2018/07/142443-widescreen-blue-ombre-background-1920x1080-photo.jpg");
+}
+#resform{
+    background-color: grey;
+}
+.resform{
+    background-color: grey;
+}
+.w{
+    color:white;
+    background-color:black;
+}
+a{
+    color:white;
+    background-color:black;
+    
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+
+.table{
+    width: 100%; 
+}
+#detail{
+    height: 100px;
+    width: 200px;
+}
+#div_main{
+    text-align: left;
+}
+
+.w3-bar{width:100%;overflow:hidden}.w3-center .w3-bar{display:inline-block;width:auto}
+.w3-bar .w3-bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+.w3-bar .w3-dropdown-hover,.w3-bar .w3-dropdown-click{position:static;float:left}
+.w3-bar .w3-button{white-space:normal}
+.w3-bar-block .w3-bar-item{width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0}
+.w3-bar-block.w3-center .w3-bar-item{text-align:center}.w3-block{display:block;width:100%}
+.w3-black,.w3-hover-black:hover{color:#fff!important;background-color:#000!important}
+.w3-red,.w3-hover-red:hover{color:#fff!important;background-color:#f44336!important}
+.w3-container,.w3-panel{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-bottom:16px}
+.btn {
+
+    background-color: #333333;
+    border: none;
+    color: black;
+    
+    text-align: center;
+    font-size: 20px;
+    margin: 5px 10px;
+    transition: 0.7s;
+  }
+
+.btn:hover {	
+    background-color: #006bb3;
+    color: white;
+  }
+
+  #div_content{
+    padding: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    background-color: azure;
+    opacity: .7; 
+
+}
+footer{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color:lavender;
+    opacity: .6; 
+    text-align: center;
+}
+
+.sub{
+    padding-right: 10px;
+    font-size: 15px;
+    float:right;
+}
+
+.testnow{
+    padding: 10px;
+    height: 10px;
+    
+    
+}
+#resbutton{
+    background: black;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
